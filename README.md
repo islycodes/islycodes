@@ -1,4 +1,4 @@
-# 💫 About Me:  
+# 💫 About Me:
 I'm learning mobile development.<br><br>
 
 
