@@ -1,9 +1,10 @@
 ### Hi 👋, I'm Adrielly Isly
 
+  <p align="center">
   <a href="https://github.com/islycodes">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=islycodes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islycodes&layout=compact&langs_count=7&theme=dracula"/>
- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=islycodes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islycodes&layout=compact&langs_count=7&theme=dracula"/>
+    </p>
  
 <h3 align="left">Languages and Tools:</h3>
  
