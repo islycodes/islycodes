@@ -14,6 +14,6 @@
 
 <br>
 
-<> <p align="right"> 
-<> <img alt="Adrielly" width="200" src="https://cdn.discordapp.com/attachments/1002802222209450094/1040991970916569168/islycodes.gif"/>
-<> </p>
+[//]: <> <p align="right"> 
+[//]: <> <img alt="Adrielly" width="200" src="https://cdn.discordapp.com/attachments/1002802222209450094/1040991970916569168/islycodes.gif"/>
+[//]: <> </p>
