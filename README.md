@@ -1,10 +1,5 @@
 <h3> Hi 👋, I'm Adrielly Isly </h3>
 
-  <p align="left">
-  <a href="https://github.com/islycodes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islycodes&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-    </p>
-
 <h3>Languages and Tools:</h3>
 
 <p> 
